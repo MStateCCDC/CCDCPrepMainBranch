@@ -22,4 +22,13 @@ delete_logins.sh
 This BASH shell script deletes logins found in a csv file.
 
 password_albatross.sh
-This BASH shell script changes the password for several Linux accounts. 
+This BASH shell script changes the password for several Linux accounts. Everything is hard coded.
+
+auditd-log-search.sh
+This BASH shell script searches the Linux auditd logs. Everything is hard coded.
+
+journalctl-log-search.sh
+This BASH shell script searches the Linux journalctl logs. Everything is hard coded.
+
+messages-log-search.sh
+This BASH shell script searches the Linux messages log file. Everything is hard coded.
