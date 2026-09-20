@@ -20,3 +20,6 @@ This BASH shell script creates logins from a csv file.
 
 delete_logins.sh
 This BASH shell script deletes logins found in a csv file.
+
+password_albatross.sh
+This BASH shell script changes the password for several Linux accounts. 
